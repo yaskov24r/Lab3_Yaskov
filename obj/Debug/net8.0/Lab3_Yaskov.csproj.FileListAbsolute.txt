@@ -1,0 +1,14 @@
+C:\Users\Denis\source\repos\Lab3_Yaskov\Lab3_Yaskov\bin\Debug\net8.0\Lab3_Yaskov.exe
+C:\Users\Denis\source\repos\Lab3_Yaskov\Lab3_Yaskov\bin\Debug\net8.0\Lab3_Yaskov.deps.json
+C:\Users\Denis\source\repos\Lab3_Yaskov\Lab3_Yaskov\bin\Debug\net8.0\Lab3_Yaskov.runtimeconfig.json
+C:\Users\Denis\source\repos\Lab3_Yaskov\Lab3_Yaskov\bin\Debug\net8.0\Lab3_Yaskov.dll
+C:\Users\Denis\source\repos\Lab3_Yaskov\Lab3_Yaskov\bin\Debug\net8.0\Lab3_Yaskov.pdb
+C:\Users\Denis\source\repos\Lab3_Yaskov\Lab3_Yaskov\obj\Debug\net8.0\Lab3_Yaskov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\source\repos\Lab3_Yaskov\Lab3_Yaskov\obj\Debug\net8.0\Lab3_Yaskov.AssemblyInfoInputs.cache
+C:\Users\Denis\source\repos\Lab3_Yaskov\Lab3_Yaskov\obj\Debug\net8.0\Lab3_Yaskov.AssemblyInfo.cs
+C:\Users\Denis\source\repos\Lab3_Yaskov\Lab3_Yaskov\obj\Debug\net8.0\Lab3_Yaskov.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\Lab3_Yaskov\Lab3_Yaskov\obj\Debug\net8.0\Lab3_Yaskov.dll
+C:\Users\Denis\source\repos\Lab3_Yaskov\Lab3_Yaskov\obj\Debug\net8.0\refint\Lab3_Yaskov.dll
+C:\Users\Denis\source\repos\Lab3_Yaskov\Lab3_Yaskov\obj\Debug\net8.0\Lab3_Yaskov.pdb
+C:\Users\Denis\source\repos\Lab3_Yaskov\Lab3_Yaskov\obj\Debug\net8.0\Lab3_Yaskov.genruntimeconfig.cache
+C:\Users\Denis\source\repos\Lab3_Yaskov\Lab3_Yaskov\obj\Debug\net8.0\ref\Lab3_Yaskov.dll
